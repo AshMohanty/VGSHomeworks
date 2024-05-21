@@ -6,6 +6,9 @@
     "start": "node server.js",
     "proxy": "export NODE_EXTRA_CA_CERTS=$(pwd)/cert.pem && node server.js"
   },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
     "body-parser": "^1.19.0",
